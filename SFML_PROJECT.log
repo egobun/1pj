@@ -1,0 +1,8 @@
+﻿  Block.cpp
+C:\Users\Bunakov Egor\source\repos\SFML_PROJECT\SFML_PROJECT\Block.cpp(12,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\source\repos\SFML_PROJECT\SFML_PROJECT\Block.cpp(12,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\source\repos\SFML_PROJECT\SFML_PROJECT\Block.cpp(20,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Bunakov Egor\source\repos\SFML_PROJECT\SFML_PROJECT\Block.cpp(21,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Bunakov Egor\source\repos\SFML_PROJECT\SFML_PROJECT\Block.cpp(28,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Bunakov Egor\source\repos\SFML_PROJECT\SFML_PROJECT\Block.cpp(28,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML_PROJECT.vcxproj -> C:\Users\Bunakov Egor\source\repos\SFML_PROJECT\x64\Debug\SFML_PROJECT.exe
